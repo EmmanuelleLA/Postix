@@ -1,0 +1,256 @@
+textarea/*------------------------------------------------------------------------------
+	WEB : page design
+------------------------------------------------------------------------------*/
+
+
+
+/*==============================
+	Layout
+==============================*/
+
+/* Wrapper */
+.wrapper {
+
+	margin: 0 5vw 0 5vw;
+	max-width: 800vw;
+	min-height: 100vh;
+	margin: 0vw auto 0vw auto;
+}
+
+
+
+/*==============================
+	Style
+==============================*/
+
+/* Set font */
+* {
+	font-family: "Open Sans", "Arial", "Helvetica", Palatino, sans-serif;
+	color: #555555;
+}
+
+/* Body */
+body {
+/* background-color: #FFFFFF; */
+}
+
+aside h2 {
+	cursor: pointer;
+}
+
+
+header{
+	font-size: 6vw;
+	text-align: center;
+	/* margin: 5vw; */
+}
+
+li {
+	/* margin-left: auto;
+	margin-right: auto; */
+	border: solid;
+	color: #00b1ca;
+	padding: 2vw;
+	margin: 8vw auto 5vw auto;
+	width: 50vw;
+	border-width: 0.5vw;
+	text-align: center;
+	border-radius: 1vw;
+	font-weight: bold;
+}
+
+ul {
+list-style:none;
+}
+
+.title, .link{
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-bottom: 10vw;
+width: 80vw;
+margin-top: 10vw;
+padding: 2vw;
+text-align: center;
+font-size: 6vw;
+
+
+}
+
+
+.title:hover {
+background-color: #E0DAD9;
+
+}
+
+.title:focus{
+border-radius: 2vw;
+border-color: green;
+border-width: medium;
+background-color: #FFFFFF;
+}
+
+textarea:hover {
+background-color: #E0DAD9;
+}
+
+textarea:focus{
+border-width: medium;
+border-color: green;
+background-color: #FFFFFF;
+}
+
+.negate, .btnnegate{
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-bottom: 2vw;
+width: 42vw;
+margin-top: 2vw;
+background-color: #414449;
+border-radius: 6vw;
+border: 0.8vw double #cccccc;
+color: #eeeeee;
+text-align: center;
+padding: 1vw;
+font-size:6vw;
+}
+
+
+.new{
+	margin-bottom: 2vw;
+	width: 42vw;
+	margin-top: 2vw;
+	background-color: #900C3F;
+	border-radius: 2vw;
+	border: 0.8vw double #cccccc;
+	color: #eeeeee;
+	text-align: center;
+	padding:1vw ;
+	font-size:6vw;
+}
+
+
+
+.sup{
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-bottom: 2vw;
+width: 42vw;
+margin-top: 2vw;
+background-color: #BD1A30;
+border-radius: 6vw;
+border: 0.8vw double #cccccc;
+color: #eeeeee;
+text-align: center;
+padding: 1vw;
+font-size:6vw;
+}
+
+.send, .btnSend{
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-bottom: 2vw;
+width: 42vw;
+margin-top: 5vw;
+background-color: #04CC23;
+border-radius: 6vw;
+border: 0.8vw double #cccccc;
+color: #eeeeee;
+text-align: center;
+padding: 1vw;
+font-size:6vw;
+}
+
+textarea {
+	margin-left: auto;
+	margin-right: auto;
+		display: block;
+		padding: 2vw;
+		line-height: 1.5;
+		border-radius: 1vw;
+		border: 0.5vw solid #ccc;
+		box-shadow: 0.25839vw 0.25839vw 0.25839vw #999;
+		width: 80vw;
+		resize : none;
+		font-size: 6vw;
+}
+
+
+.label-file {
+    cursor: pointer;
+    color: #00b1ca;
+    font-weight: bold;
+		margin: 20vw;
+		font-size:7vw;
+}
+.label-file:hover {
+    color: #25a5c4;
+
+}
+.label-Image {
+    cursor: pointer;
+    color: #00b1ca;
+    font-weight: bold;
+		margin: 20vw;
+		font-size:7vw;
+}
+.label-Image:hover {
+    color: #25a5c4;
+
+}
+
+
+.input-file {
+    display: none;
+}
+.input-Image {
+    display: none;
+}
+
+section {
+margin-left: auto;
+margin-right: auto;
+background-color: #FFFFFF;
+padding: 0vw 0vw 1vw 1vw;
+/* border-radius:2vw;
+border-style: solid;
+border-color: #B0B6C7;
+border-color: #f6f6f6; */
+}
+
+/*==============================
+	Classes
+==============================*/
+
+.i1{
+	padding: 5vh;
+	grid-gap: 1px 2em;
+	align-self: center;
+	margin-left: 13vh;
+
+
+}
+/*==============================
+	Responsive design
+==============================*/
+
+/* Media query : mobile */
+@media (max-width: 600px) {
+
+
+}
+
+/* Media query : tablet */
+@media (min-width: 600px) and (max-width: 1200px) {
+
+}
+
+
+
+/* Media query : laptop */
+@media (min-width: 1200px) {
+
+}
