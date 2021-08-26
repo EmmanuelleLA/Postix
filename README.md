@@ -2,7 +2,7 @@
 Conception d'une Interface web qui permet aux utilisateurs de partager des documents et de poster des commentaires en se connectant à un Raspberry Pi transformé 
 en hotspot Wifi.
 
-Objectif : 
+Objectifs : 
 - Partager des documents, des images, des liens et des dessins 
 - Modifier les documents, les images, les liens et les dessins
 - Dessiner, écrire
