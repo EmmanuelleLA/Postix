@@ -14,4 +14,4 @@ Composant :
 Fonctionnement : Les utilisateurs se connectent sur le site ou sont déjà affichés les posts publiés par les autres utilisateurs. Ils ont également la possibilité d’effectuer plusieurs actions telles que partager et modifier des documents, des images, des liens et des dessins.
 
 ![Screenshot_20210305-075031_Chrome](https://user-images.githubusercontent.com/88400903/131527052-dbfd7797-66a4-402e-b290-c134cfdbe095.jpg)
-<img src="Screenshot_20210305-075031_Chrome.jpg" width="200">
+![redi](https://user-images.githubusercontent.com/88400903/131529881-541fe87e-2e8a-44dc-9e5b-e34ebca47437.jpg)
